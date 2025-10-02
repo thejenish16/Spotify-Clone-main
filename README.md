@@ -1,7 +1,7 @@
 # 🎵 Spotify Clone
 
 <div align="center">
-  <img src="images/Capture.png" alt="Spotify Clone Banner" width="100%" />
+  <img src="images/Capture.PNG" alt="Spotify Clone Banner" width="100%" />
 </div>
 
 ---
@@ -24,7 +24,7 @@ Built using **HTML, CSS, JavaScript, React** to give you the real Spotify vibe.
 
 ## 📸 Screenshot
 <div align="center">
-  <img src="images/Capture.png" alt="Spotify Clone Screenshot" width="600"/>
+  <img src="images/Capture.PNG" alt="Spotify Clone Screenshot" width="600"/>
 </div>
 
 ---
